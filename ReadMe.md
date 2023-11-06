@@ -2,4 +2,4 @@
 
 # پروژه اول : بازی آتاری
 
-![Project-fun-arduino](Views/img.jpeg)
+![Project-fun-arduino](Views/img.jpg)
